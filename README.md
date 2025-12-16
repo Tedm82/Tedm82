@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tedm82
 - 👀 I’m interested in Python and SQL
-- 🌱 I’m currently learning Economics
-- 💞️ I’m looking to collaborate on Machine leanring and deep learning projects
+- 🌱 I’m currently learning Cybersecurity
+- 💞️ I’m looking to collaborate on Machine learning and Cybersecurity projects
 - 📫 How to reach me on GitHub
 
 <!---
